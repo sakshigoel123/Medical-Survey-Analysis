@@ -1,0 +1,1 @@
+This project utilizes Python for web scraping, Excel for data preprocessing, and Tableau for dashboarding. It aggregates data on various medicines, including demographic factors like age and gender, alongside reviews and ratings. The result is a concise yet comprehensive visualization of medication effectiveness and user feedback.
